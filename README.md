@@ -4,8 +4,8 @@ for AEM
 > **Test Repository**: This is a test repository for demonstration purposes.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--frescopa-da--dzepeda601.aem.page/
+- Live: https://main--frescopa-da--dzepeda601.aem.live/
 
 ## Documentation
 
